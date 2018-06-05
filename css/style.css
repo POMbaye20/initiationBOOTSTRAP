@@ -21,3 +21,6 @@ body {
 .fond_bleu {
     background: lightblue;
 }
+.carousel-caption {
+    background-color: rgb(192, 192, 192, 0.3)
+}
